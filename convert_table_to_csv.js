@@ -1,4 +1,7 @@
-  /*se le pasa el parametro del nombre de la tabla y el nombre del archivo con el que se guardara
+ /*
+  * @author henrygf26
+  */
+ /*se le pasa el parametro del nombre de la tabla y el nombre del archivo con el que se guardara
  *el nombre del archivo en este caso se concatenara con la fecha
  */
 function exportTableToCSV(table,filename) {
