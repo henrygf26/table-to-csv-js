@@ -3,12 +3,12 @@ table-to-csv-js
 
 Convert table to csv using only JavaScript
 
-Autor: henrygf26
-The JavaScript file (convert_table_to_csv.js) is used to export an html table to csv.
-In the html insert the following line:
-<script type = "text / javascript" src = "[folder] /table_convert_csv.js"> </ script>
-[folder] is the path where the javascript was saved
+<p>Author: henrygf26</p>
+<p>the JavaScript file is used to export an html table to csv.<br />
+In the html insert the following line:<br />
+&lt;script type = &quot;text / javascript&quot; src = &quot;[folder] /table_convert_csv.js&quot;&gt; &lt;/ script&gt;<br />
+[folder] is the path where the javascript was saved</p>
 
-The function is called exportTableToCSV ([table], [name]);
-[table] is the name of the table you want to export
-[name] is the name that the file is downloaded
+<p>The function is called exportTableToCSV ([table], [name]);<br />
+[table] is the name of the table you want to export<br />
+[name] is the name that the file is downloaded</p>
